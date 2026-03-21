@@ -1,5 +1,0 @@
-// Title: Promise Time Limit
-            // Difficulty: Unknown
-            // Language: undefined
-            // Link: https://leetcode.com/problems/promise-time-limit/
-
